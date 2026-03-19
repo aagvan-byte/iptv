@@ -1,0 +1,76 @@
+﻿#EXTM3U
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", Armenia Comedy
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", Hay ATV
+http://ott-cdn.ucom.am/s73/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", ArmNews ATV
+http://ott-cdn.ucom.am/s11/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", ARTN Shant
+http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", Song Tv Armenia
+https://songtvam.ru:4443/high/playlist.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", High Vision Armenia
+http://204.174.104.71:88/HIGHVISION_WEB_1205/highvision/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", Hay kino
+http://ott-cdn.ucom.am/s22/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", AABC Armenia
+http://204.174.104.71:88/AABC_WEB_1201/aabc/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", AMGA Tv Armenia
+http://204.174.104.71:88/AMGA_WEB_1202/amga/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", iArmeniaMusic HD
+http://livestream.usatv.com/hls/m3u8/iArmMusicHD.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", US Armenia Tv
+http://livestream.usatv.com/hls/m3u8/USARMENIA480.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", HorizonTv Armenia
+http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", Kinoman ATV
+http://ott-cdn.ucom.am/s94/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", Jan ATV
+http://ott-cdn.ucom.am/s42/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", H3
+http://ott-cdn.ucom.am/s12/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", Shoxakat
+http://ott-cdn.ucom.am/s13/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", H1
+http://ott-cdn.ucom.am/s1/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", Armenia Tv
+http://ott-cdn.ucom.am/s4/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", Kentron Tv
+http://ott-cdn.ucom.am/s5/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", Ararat HD
+http://ott-cdn.ucom.am/s6/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", Yerkir Media
+http://ott-cdn.ucom.am/s7/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", ATV
+http://ott-cdn.ucom.am/s8/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", ArTV
+http://ott-cdn.ucom.am/s9/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", Tava ATV
+http://ott-cdn.ucom.am/s53/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", Tuntunik
+http://ott-cdn.ucom.am/s46/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", Azatutyun Tv
+http://ott-cdn.ucom.am/s3/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", H2
+http://ott-cdn.ucom.am/s2/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", 21 Tv
+http://ott-cdn.ucom.am/s10/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", Azatutyun Tv
+http://ott-cdn.ucom.am/s3/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", U!Premium
+http://ott-cdn.ucom.am/s83/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", Vip Comedy
+http://ott-cdn.ucom.am/s97/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", Vip Primere
+http://hls-viasat.cdnvideo.ru/hls/relay/1502288412514/index.m3u8
+
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", Vip Megahit
+https://hls-viasat.cdnvideo.ru/hls/relay/L_UDg0e/index.m3u8?md5=aQJr8zCU2qyjrTrqnmqEQQ&e=1541405785&hls_proxy_host=97544926393025ab05ebfb4dc3486095
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", tViasat Nature
+http://hls-viasat.cdnvideo.ru/hls/relay/1502288391761/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", Viasat Golf
+http://hls-viasat.cdnvideo.ru/hls/relay/1502288404097/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", Viasat Sport HD
+http://hls-viasat.cdnvideo.ru/hls/relay/1502288421056/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Հայերեն", Fortuna Tv
+https://video-weaver.fra02.hls.ttvnw.net/v1/playlist/CoYErJPj3WjsuB57I4t-BElTOyaErk7TbH3FA-Rjehy1gRFm3QMRbOUROhfZpslvX_wg2hF3260V0vxhBihrV4oexUf9Gg-iNDOFkXI7h-VP2eT9LYBF1cINuOLKxWQOq--4JzDEq1DK9fJshPOK5BoZ15n1HGUdFNN8WgbkVmuoK613wY2y8kg9rvQk7hFbxvZHoBS6TMrWVnFplt2I9-Ldcpv3cxse_tc3Vo0XCGm1-PkAf2vKqc5E0dwDeYHNog-_h1zwYg04so75XElf9Gsuo_hHM0HYP8UemZ64tSmDVzbYDKb-riadZuK8XfXM4GtyG5A76W86-g62YwkiBbWKfot7cUFQNn_E8pE93X1DHImTg9r2KiRNl-KTXfeRpdtrb71TgZL5e4ga-zEWibi-jC2o2VNCRwct1ozELCqkhNzgyF9x2vEtM2N0t3qtnpfWjiqM1vBq5uurbAnEIvZPGmNthYtt2FWSqRSK3Q5QBIunulIXuZCfVLEUhyr4P-B-VI2CSed6GfZg-HGhNNQ1sRRjOiJphZmmUuP4h2qCE7T8yOreSstbfYzUNlYIK77U3JLJfrkRYhxMrlmm4GDCl9IpFslUDEEXF9PSQYvC9GlnLbN1MoX9xA6J8gUNw5-cdXfEwBE34r7F_JmsEb-t8CANe_MtefcAj6daos2h84KknIvmnkISEH9ZnO5TxyAbf7zgbv3eoo0aDGVHt6x4fXZTYsKb_Q.m3u8

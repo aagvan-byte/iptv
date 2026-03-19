@@ -62,15 +62,3 @@ http://ott-cdn.ucom.am/s83/index.m3u8
 #EXTINF:-1 resolution=720x576 group-title="Հայերեն", Vip Comedy
 http://ott-cdn.ucom.am/s97/index.m3u8
 #EXTINF:-1 resolution=720x576 group-title="Հայերեն", Vip Primere
-http://hls-viasat.cdnvideo.ru/hls/relay/1502288412514/index.m3u8
-
-#EXTINF:-1 resolution=720x576 group-title="Հայերեն", Vip Megahit
-https://hls-viasat.cdnvideo.ru/hls/relay/L_UDg0e/index.m3u8?md5=aQJr8zCU2qyjrTrqnmqEQQ&e=1541405785&hls_proxy_host=97544926393025ab05ebfb4dc3486095
-#EXTINF:-1 resolution=720x576 group-title="Հայերեն", tViasat Nature
-http://hls-viasat.cdnvideo.ru/hls/relay/1502288391761/index.m3u8
-#EXTINF:-1 resolution=720x576 group-title="Հայերեն", Viasat Golf
-http://hls-viasat.cdnvideo.ru/hls/relay/1502288404097/index.m3u8
-#EXTINF:-1 resolution=720x576 group-title="Հայերեն", Viasat Sport HD
-http://hls-viasat.cdnvideo.ru/hls/relay/1502288421056/index.m3u8
-#EXTINF:-1 resolution=720x576 group-title="Հայերեն", Fortuna Tv
-https://video-weaver.fra02.hls.ttvnw.net/v1/playlist/CoYErJPj3WjsuB57I4t-BElTOyaErk7TbH3FA-Rjehy1gRFm3QMRbOUROhfZpslvX_wg2hF3260V0vxhBihrV4oexUf9Gg-iNDOFkXI7h-VP2eT9LYBF1cINuOLKxWQOq--4JzDEq1DK9fJshPOK5BoZ15n1HGUdFNN8WgbkVmuoK613wY2y8kg9rvQk7hFbxvZHoBS6TMrWVnFplt2I9-Ldcpv3cxse_tc3Vo0XCGm1-PkAf2vKqc5E0dwDeYHNog-_h1zwYg04so75XElf9Gsuo_hHM0HYP8UemZ64tSmDVzbYDKb-riadZuK8XfXM4GtyG5A76W86-g62YwkiBbWKfot7cUFQNn_E8pE93X1DHImTg9r2KiRNl-KTXfeRpdtrb71TgZL5e4ga-zEWibi-jC2o2VNCRwct1ozELCqkhNzgyF9x2vEtM2N0t3qtnpfWjiqM1vBq5uurbAnEIvZPGmNthYtt2FWSqRSK3Q5QBIunulIXuZCfVLEUhyr4P-B-VI2CSed6GfZg-HGhNNQ1sRRjOiJphZmmUuP4h2qCE7T8yOreSstbfYzUNlYIK77U3JLJfrkRYhxMrlmm4GDCl9IpFslUDEEXF9PSQYvC9GlnLbN1MoX9xA6J8gUNw5-cdXfEwBE34r7F_JmsEb-t8CANe_MtefcAj6daos2h84KknIvmnkISEH9ZnO5TxyAbf7zgbv3eoo0aDGVHt6x4fXZTYsKb_Q.m3u8

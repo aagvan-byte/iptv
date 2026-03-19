@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Armenia",Armenia TV
+https://amtv.zooma.tv/hls/amtv/index.m3u8
+
+#EXTINF:-1 group-title="Armenia",Shant TV
+https://shanttv.akamaized.net/hls/shanttv/index.m3u8
+
+#EXTINF:-1 group-title="Armenia",H1 (Public TV)
+https://h1tv.akamaized.net/hls/h1tv/index.m3u8
+
+#EXTINF:-1 group-title="Armenia",Kentron TV
+https://kentron.tv/hls/kentron/index.m3u8
+
+#EXTINF:-1 group-title="Armenia",ATV Armenia
+https://atv.zooma.tv/hls/atv/index.m3u8
+
+#EXTINF:-1 group-title="Armenia",ArmNews
+https://armnews.zooma.tv/hls/armnews/index.m3u8
+
+#EXTINF:-1 group-title="Armenia",USArmenia TV
+https://usarmenia.akamaized.net/hls/usarmenia/index.m3u8
+
+#EXTINF:-1 group-title="Armenia",ARTN TV
+https://artn.zooma.tv/hls/artn/index.m3u8
+
+#EXTINF:-1 group-title="Armenia",Yerkir Media
+https://yerkirmedia.zooma.tv/hls/yerkirmedia/index.m3u8
+
+#EXTINF:-1 group-title="Armenia",Ararat TV
+https://ararat.zooma.tv/hls/ararat/index.m3u8
